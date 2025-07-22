@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🛒 E-Commerce Website
 
 A modern and responsive eCommerce website built with the goal of providing users with a seamless online shopping experience.  
@@ -28,7 +28,3 @@ A modern and responsive eCommerce website built with the goal of providing users
 
 ## 📁 Project Structure
 
-=======
-# Ecommerce-Website
-This repository contains all the java codes i have practiced. 
->>>>>>> 6a617a2643bf008de43bcc8ce7e1dd135501f55f
